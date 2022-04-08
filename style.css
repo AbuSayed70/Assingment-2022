@@ -128,13 +128,36 @@ body {
 }
 
 footer {
-    width: 75%;
+    width: 67%;
     font-style: oblique;
     text-align: center;
     color: white;
     background-color: black;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .footer-color {
     color: rgb(56, 225, 225);
+}
+
+.my-section-div {
+    color: rgb(255, 255, 255);
+    background-color: rgb(176, 237, 217);
+    display: flex;
+    width: 67%;
+    margin-left: 5%;
+}
+
+.my-section-div img {
+    width: 110%;
+}
+
+.my-color {
+    color: rgb(231, 87, 35);
+}
+
+.my-section-div1 {
+    width: 100%;
+    padding: 5%;
 }
