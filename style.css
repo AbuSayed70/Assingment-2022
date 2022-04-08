@@ -39,6 +39,7 @@ body {
 .second-section {
     width: 50%;
     height: 20px;
+    margin-bottom: 10%;
 }
 
 #my-mission {
@@ -87,4 +88,20 @@ body {
 
 .div-three-third img {
     width: 80px;
+}
+
+.third-section {
+    margin-top: 35%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.third-section-main {
+    display: flex;
+    width: 100%;
+}
+
+.div-limis {
+    margin-left: 5%;
+    width: 40%;
 }
