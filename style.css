@@ -126,3 +126,15 @@ body {
     padding-left: 5%;
     width: 55%;
 }
+
+footer {
+    width: 75%;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.footer-color {
+    color: rgb(56, 225, 225);
+}
