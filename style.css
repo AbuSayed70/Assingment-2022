@@ -45,13 +45,13 @@ body {
 #my-mission {
 
     text-align: center;
-    font-size: 500;
+    font-size: large;
     font-weight: 700;
 }
 
 .div-three {
     display: flex;
-    width: 142%;
+    width: 150%;
     margin-left: 2%;
 }
 
@@ -98,10 +98,31 @@ body {
 
 .third-section-main {
     display: flex;
-    width: 100%;
+    width: 111%;
 }
 
 .div-limis {
     margin-left: 5%;
     width: 40%;
+}
+
+.section-four-div {
+    display: flex;
+    width: 56%;
+    margin-left: 5%;
+    padding: 5%;
+}
+
+.section-four-div img {
+    width: 120%;
+}
+
+.section-four-div1 {
+    padding-right: 5%;
+    width: 60%;
+}
+
+.section-four-div2 {
+    padding-left: 5%;
+    width: 55%;
 }
